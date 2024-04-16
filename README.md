@@ -15,6 +15,11 @@
 
 #### Django
 
+## Skills
+
+#### opencv
+#### yolo
+
 
 ## IDE 
 
