@@ -1,21 +1,28 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinKyeom&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## Pesonal Blog
+
+#### http://3.37.248.157/
+
 ## Language
 
-#### Python
+#### Python:Upper-Intermediate
 * pccp lv4 (800)
 
-#### Java 
+#### Java:Beginner
 
-#### HTML 
+#### HTML5:Intermediate 
 
-#### JavaScripts 
+#### JavaScripts:Beginner
 
-#### sql
+#### sql:Low-Intermediate
+
+#### css:Intermediate
 
 ## Framework
 
 #### Django
+#### Bootstrap
 
 ## Skills
 
