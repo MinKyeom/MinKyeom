@@ -2,7 +2,7 @@
 
 ## Pesonal Blog
 
-#### http://3.37.248.157/
+#### http://mikysdailylife.com/
 
 ## Language
 
