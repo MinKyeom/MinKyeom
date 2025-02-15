@@ -2,7 +2,8 @@
 
 ## Pesonal Blog
 
-#### http://mikysdailylife.com/
+#### https://mikysdailylife.com/
+> gunicorn & nginx & https 
 
 ## Language
 
