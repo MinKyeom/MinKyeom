@@ -84,4 +84,4 @@
 
 - **GitHub:** [github.com/minkyeom](https://github.com/minkyeom)
 - **Django Blog:** [mikysdailylife.com](https://mikysdailylife.com/)
-- **MSA Blog:** [minkowskim.com/](https://minkowskim.com/)
+- **MSA Blog:** [minkowskim.com](https://minkowskim.com/)
