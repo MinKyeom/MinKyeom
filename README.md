@@ -3,9 +3,9 @@
 ### Backend Engineer & AI Assistant Developer
 
 <p align="left">
-  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinKyeom&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinKyeom&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MinKyeom&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/TIL-800--Days--Continuous-orange?style=flat-square" alt="TIL" />
 </p>
 
 > **지속 가능한 코드와 효율적인 시스템 아키텍처를 지향합니다.**
@@ -59,16 +59,23 @@
 
 ---
 
-### 📊 Statistics & Activity
+**Backend & Language**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinKyeom&show_icons=true&theme=transparent&hide_border=true&title_color=79C83D&icon_color=79C83D&text_color=555555" alt="MinKyeom's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinKyeom&layout=compact&theme=transparent&hide_border=true&title_color=79C83D&text_color=555555" alt="Most Used Languages" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinKyeom&theme=transparent&hide_border=true&stroke=79C83D&ring=79C83D&fire=79C83D&currStreakLabel=79C83D" alt="GitHub Streak" />
+**Frontend & Optimization**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-Optimization-blueviolet?style=for-the-badge" />
 </p>
 
 ---
