@@ -44,7 +44,7 @@
 ---
 
 <a href="https://leetcode.com/u/aODK9tOtvS/">
-  <img src="https://leetcode-badge.vercel.app/api/users/aODK9tOtvS?theme=dark&font=baloo" alt="LeetCode Stats" />
+  <img src="https://leetcode-badge.vercel.app/api/users/aODK9tOtvS?theme=dark&v=10" alt="LeetCode Stats" />
 </a>
 
 ---
