@@ -43,9 +43,9 @@
 
 ---
 
-### 📊 LeetCode Stats
-
-## ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/aODK9tOtvS)
+<a href="https://leetcode.com/u/aODK9tOtvS/">
+  <img src="https://leetcode-badge.vercel.app/api/users/aODK9tOtvS?theme=dark&font=baloo" alt="LeetCode Stats" />
+</a>
 
 ---
 
