@@ -18,10 +18,10 @@
 실제 배포되어 운영 중인 프로젝트입니다. 클릭하여 확인하실 수 있습니다.
 
 - **[Personal Blog]** [mikysdailylife.com](https://mikysdailylife.com/)
+
   - Django 기반 풀스택 개발 및 AWS 인프라(Lightsail, Nginx, Gunicorn, Domain, Https) 구축 운영
   - 기술 트러블슈팅 및 알고리즘 풀이 기록 (60편+)
-- **[Spring Boot Demo]** [Live Preview](http://3.36.84.83:8080/user/signup)
-  - MVC 패턴 기반의 계층 구조 분리 및 JPA 데이터 연동 구현
+
 - **[MSA Assistant Blog]** [minkowskim.com](https://minkowskim.com/)
   - Spring Boot, FastAPI, Next.js, Redis를 결합한 분산 서비스 아키텍처 설계 및 AI Chatbot model을 활용한 챗봇 서비스 및 Aws 인프라 (Ligthsail,Doker,Doker Compose, Nginx ,Domain, Https) 운영
   - **Next.js를 활용한 SEO 최적화** 및 사용자 경험(UX) 강화 (다크모드 지원)
@@ -40,6 +40,12 @@
 
 - **Cloud:** Microsoft Azure, AWS (Lightsail, S3, Route53)
 - **Deployment:** Nginx, Gunicorn, Docker Compose, Maven/Gradle
+
+---
+
+### 📊 LeetCode Stats
+
+## ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/aODK9tOtvS)
 
 ---
 
