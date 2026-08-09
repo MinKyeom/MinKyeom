@@ -43,8 +43,12 @@
 
 ---
 
-<a href="https://leetcode.com/u/aODK9tOtvS/">
-  <img src="https://leetcode-badge.vercel.app/api/users/aODK9tOtvS?theme=dark&v=10" alt="LeetCode Stats" />
+<!-- <a href="https://leetcode.com/u/MinKyeom">
+  <img src="https://leetcard.jacoblin.cool/MinKyeom?theme=dark" alt="LeetCode Stats" />
+</a> -->
+
+<a href="https://leetcode.com/u/MinKyeom/">
+  <img src="https://leetcard.jacoblin.cool/MinKyeom?theme=dark" alt="LeetCode Stats" />
 </a>
 
 ---
